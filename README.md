@@ -24,14 +24,14 @@ You can view the interactive Onshape model [here](https://cad.onshape.com/docume
 <img width="500" alt="Screenshot 2024-08-20 at 10 49 08 PM" src="https://github.com/user-attachments/assets/3583658b-73e5-4c89-b599-ab7960056965">
 
 
-\\\
+\\
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/d35115cf-e390-4850-99fb-5eb1b87a2bfd">
 \\\
 
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/6ad9295c-aeea-4295-bdbb-e3683b36ea19">
 
-\\\
+\
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/6b043e6f-fa84-4b74-9a96-f2eb93eca72e">
 
