@@ -7,6 +7,8 @@ includes a brass weight. Based on the CAD design, the estimated weight is around
 This is my first keyboard project, and so far, I've completed the CAD design for the case. I'm currently learning 
 KiCad to design my own PCB, with the goal of assembling this keyboard in real life.
 
+You can view the interactive Onshape model [here](https://cad.onshape.com/documents/b5338b595b46c3bf94c4c0e9/w/94f3c93521d091fcd13dd760/e/85330ec7bfa5c787ea423b99)
+
 ## Photo Gallery 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/9b31ceac-6dc3-4ae5-b42b-c3324f01d227">
 
