@@ -1,6 +1,7 @@
 # Keyboard
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/e2bb7ac7-4401-40f2-86ca-0f29ed6cf9a6">
 
+
 This is my 75% keyboard featuring 3 slider potentiometers and a large OLED screen. The case is made from aluminum and 
 includes a brass weight. Based on the CAD design, the estimated weight is around 5 pounds. 
 
